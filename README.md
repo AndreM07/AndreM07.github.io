@@ -22,7 +22,22 @@ Welcome to my personal website! I'm Andre Mojica, an aspiring mechanical enginee
   - **The Big Short**  
   - **The Predator's Ball**  
 
-- Another interest of mine is in history, specifically Roman history. I listen to the History of Rome podcast, which traces the history of Rome from the legend Romulus and Remus to the collapse of the Western Roman Empire in 476AD.
+---
+
+# **Work Experience**
+
+### **1. Barista at Starbucks (2019–2021)**  
+- Began my first job at age 16, working as a barista for 2 years.  
+- Key responsibilities:  
+  - Scanning customer orders on the POS system.  
+  - Restocking items on the bar.  
+  - Preparing and serving customer drinks.  
+- Notable contribution: During the Covid pandemic, I handed out free coffee to frontline hospital workers.  
+
+### **2. Manufacturing at WaterSaver Faucet Co. (May–August 2023)**  
+- Worked in manufacturing/assembly for 3 months.  
+- Key responsibilities:  
+  - Manufacturing and assembling professional laboratory equipment.  
 
 ---
 
