@@ -12,6 +12,17 @@ Welcome to my personal website! I'm Andre Mojica, an aspiring mechanical enginee
 
 -I was accepted to the University of Illinois Chicago, where I am pursuing a degree in mechanical engineering.  
 
+
+-An additional interest of mine is finance. Here is a short list of finance books I've read: 
+
+-The Buy Side
+-Liar's Poker
+-Den of Thieves
+-A Short History of Financial Euphoria
+-Barbarians at the Gate
+-The Big Short
+-The Predator's Ball
+
 ---
 
 # **Engineering Projects**
