@@ -1,6 +1,16 @@
 # **Home**
 
-Welcome to my personal website! I'm Andre, an aspiring engineer with a passion for solving real-world problems through innovative design and analysis. My interests include engineering, finance, and history. Feel free to explore my projects, learn about my work, or get in touch!
+Welcome to my personal website! I'm Andre Mojica, an aspiring mechanical engineer with a passion for solving real-world problems. My interests include engineering, finance, and history. Feel free to explore my projects, learn about my work, or contact me!
+
+---
+
+# **About Me**
+
+-I first became interested in engineering after I took my first engineering class in my freshman year of high school. It was an introductory engineering class where I learned the basics and foundations of engineering design.  
+
+-I took 4 years of engineering classes in high school, with each course focusing on a specific branch of engineering, such as mechanical, electrical, and coding.  
+
+-I was accepted to the University of Illinois Chicago, where I am pursuing a degree in mechanical engineering.  
 
 ---
 
@@ -18,8 +28,7 @@ Here are some of the engineering projects I've worked on:
 
 ---
 
-Feel free to reach out or check out my work through the links below:  
+Feel free to reach out through the links below:  
 
 - 🌐 [My GitHub Profile](https://github.com/AndreM07)  
-- ✉️ [Contact Me](mailto:youremail@example.com)  
-
+- ✉️ [Contact Me](mailto:andremojica7@gmail.com)  
