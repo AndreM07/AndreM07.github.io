@@ -22,6 +22,8 @@ Welcome to my personal website! I'm Andre Mojica, an aspiring mechanical enginee
   - **The Big Short**  
   - **The Predator's Ball**  
 
+- Another interest of mine is in history, specifically Roman history. I listen to the History of Rome podcast, which traces the history of Rome from the legend Romulus and Remus to the collapse of the Western Roman Empire in 476AD.
+
 ---
 
 # **Engineering Projects**
