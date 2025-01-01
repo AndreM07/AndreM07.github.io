@@ -62,17 +62,17 @@ Welcome to my personal website! I'm Andre Mojica, an aspiring mechanical enginee
 
 # **Engineering Courses**
 
-### **Mechanical Vibrations (ME 308)**
-Study of free and forced vibrations in damped linear systems with single and multiple degrees of freedom. Topics include approximate methods, instrumentation techniques, and practical applications.
+### **Mechanical Vibrations (ME 308)**  
+Study of free and forced vibrations in damped linear systems with single and multiple degrees of freedom. Exploration of approximate methods, instrumentation techniques, and practical applications.
 
-### **Fluid Mechanics (ME 211)**
-Exploration of fluid properties, dimensional analysis, and principles of statics and kinematics. Focus on conservation equations, inviscid and incompressible flows, Bernoulli's equation, and integral momentum theorems. Analysis of viscous flows, boundary layer theories, and compressible flows.
+### **Fluid Mechanics (ME 211)**  
+Examination of fluid properties, dimensional analysis, and the principles of statics and kinematics. Focus on conservation equations, inviscid and incompressible flows, Bernoulli's equation, and integral momentum theorems. Analysis of viscous flows, boundary layer theories, and compressible flows.
 
-### **Heat Transfer (ME 321)**
-Study of heat transfer modes including conduction, convection, and radiation. Topics cover material properties, extended surfaces, heat exchangers, and shape factors. Includes hands-on laboratory experiments in conduction, convection, and radiation.
+### **Heat Transfer (ME 321)**  
+Analysis of heat transfer modes, including conduction, convection, and radiation. Study of material properties, extended surfaces, heat exchangers, and shape factors. Hands-on laboratory experiments in conduction, convection, and radiation.
 
-### **Engineering Design (ME 347)**
-Application of conventional and computer-assisted methods for engineering design. Focus on geometric manipulation and computer-aided modeling using curves, surfaces, and solids. Integration of finite-element analysis in the design process.
+### **Engineering Design (ME 347)**  
+Application of conventional and computer-assisted methods for engineering design. Development of geometric manipulation and computer-aided modeling using curves, surfaces, and solids. Integration of finite-element analysis in the design process.
 
 ---
 
