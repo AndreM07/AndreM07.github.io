@@ -1,66 +1,84 @@
 # **Home**
 
-Welcome to my personal website! I'm Andre Mojica, an aspiring mechanical engineer with a passion for solving real-world problems. My interests include engineering, finance, and history. Feel free to explore my projects, learn about my work, or contact me!
+Welcome to my personal website! I'm Andre Mojica, an aspiring mechanical engineer with a passion for solving real-world problems. My interests include engineering, finance, and history. Feel free to explore my projects, learn more about my work, or contact me!
 
 ---
 
 # **About Me**
 
-- I first became interested in engineering during my freshman year of high school after taking my first engineering class. It was an introductory course where I learned the basics and foundations of engineering design.  
-- I completed 4 years of engineering classes in high school, each focusing on a specific branch of engineering, such as mechanical, electrical, and coding.  
+- I developed an interest in engineering during my freshman year of high school after taking my first engineering class. This introductory course laid the foundation for my understanding of engineering design.  
+- I completed 4 years of engineering courses in high school, each focusing on a different branch of engineering, including mechanical, electrical, and coding.  
 - I am currently pursuing a degree in mechanical engineering at the University of Illinois Chicago.  
-- Beyond engineering, I have a strong interest in finance. Here is a short list of finance books I've read:  
+- Beyond engineering, I have a strong interest in finance. Below is a list of finance books I’ve read:  
   - **The Buy Side**  
   - **Liar's Poker**  
   - **Den of Thieves**  
   - **A Short History of Financial Euphoria**  
   - **Barbarians at the Gate**  
   - **The Big Short**  
-  - **The Predator's Ball**  
+  - **The Predator's Ball**
 
 ---
 
 # **Work Experience**
 
 ### **1. Barista at Starbucks (2019–2021)**  
-- Began my first job at age 16, working as a barista for 2 years.  
+- Started my first job at 16, working as a barista for 2 years.  
 - **Key Responsibilities**:  
-  - Scanning customer orders on the POS system.  
-  - Restocking items on the bar.  
-  - Preparing and serving customer drinks.  
+  - Processed customer orders using the POS system.  
+  - Restocked items at the bar.  
+  - Prepared and served beverages to customers.  
 - **Notable Contribution**:  
-  - During the Covid pandemic, I handed out free coffee to frontline hospital workers.  
+  - During the Covid pandemic, I distributed free coffee to frontline hospital workers.  
 
 ### **2. Manufacturing at WaterSaver Faucet Co. (May–August 2023)**  
-- Worked in manufacturing/assembly for 3 months.  
+- Worked in manufacturing and assembly for 3 months.  
 - **Key Responsibilities**:  
-  - Manufacturing and assembling professional laboratory equipment.  
+  - Manufactured and assembled professional laboratory equipment.  
 
 ---
 
 # **Engineering Projects**
 
-### **1. SAE Wheel Hub Modeling (2024–)**  
+### **1. SAE Wheel Hub Modeling (2024–Present)**  
 - 🌱 **Description**:  
   - Collaborating with a group of 5 Senior Design students to design and create an SAE wheel hub.  
-  - Conducted a patent search to research and brainstorm possible designs.  
-  - Utilized SolidWorks to create an original wheel hub design that meets SAE standards.  
-  - Uploaded the design into ANSYS to apply FEA (Finite Element Analysis).  
+  - Conducted patent research to explore and brainstorm potential designs.  
+  - Used SolidWorks to create an original wheel hub design that meets SAE standards.  
+  - Uploaded the design into ANSYS for Finite Element Analysis (FEA).  
 - 🛠️ **Skills Used**:  
   - ANSYS, Finite Element Analysis, SolidWorks.  
 
 ### **2. Ping Pong Ball Launcher (2022)**  
 - 🌱 **Description**:  
-  - Collaborated with a team of four students to design and build an autonomous ping-pong ball launcher using Arduino.  
-  - Utilized SolidWorks to create individual 3D component models and three final prototype assemblies.  
-  - Highlighted high-priority tasks in a Gantt chart, and work was distributed evenly.  
-  - Built the final design using low-cost materials and presented it at the final competition to peers and faculty.  
+  - Worked with a team of four students to design and build an autonomous ping pong ball launcher using Arduino.  
+  - Utilized SolidWorks to create 3D models for individual components and final prototypes.  
+  - Created a Gantt chart to prioritize tasks and distribute the work evenly.  
+  - Built the final design with low-cost materials and presented it at the final competition to peers and faculty.  
 - 🛠️ **Skills Used**:  
   - SolidWorks, Arduino.  
 
 ---
 
-Feel free to reach out through the links below:  
+# **Engineering Courses**
+
+### **Mechanical Vibrations (ME 308)**
+Study of free and forced vibrations in damped linear systems with single and multiple degrees of freedom. Topics include approximate methods, instrumentation techniques, and practical applications.
+
+### **Fluid Mechanics (ME 211)**
+Exploration of fluid properties, dimensional analysis, and principles of statics and kinematics. Focus on conservation equations, inviscid and incompressible flows, Bernoulli's equation, and integral momentum theorems. Analysis of viscous flows, boundary layer theories, and compressible flows.
+
+### **Heat Transfer (ME 321)**
+Study of heat transfer modes including conduction, convection, and radiation. Topics cover material properties, extended surfaces, heat exchangers, and shape factors. Includes hands-on laboratory experiments in conduction, convection, and radiation.
+
+### **Engineering Design (ME 347)**
+Application of conventional and computer-assisted methods for engineering design. Focus on geometric manipulation and computer-aided modeling using curves, surfaces, and solids. Integration of finite-element analysis in the design process.
+
+---
+
+# **Contact**
+
+Feel free to reach out through the links below:
 
 - 🌐 [My GitHub Profile](https://github.com/AndreM07)  
-- ✉️ [Contact Me](mailto:andremojica7@gmail.com)  
+- ✉️ [Contact Me](mailto:andremojica7@gmail.com)
