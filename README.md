@@ -54,9 +54,11 @@ Here are some of the engineering projects I've worked on:
 ### **2. Ping Pong ball launcher**  (2022)
 - 🌱 **Description**:  
 -Collaborated with a team of four students to design and build an autonomous ping-pong ball
-launcher using Arduino. -Utilized Solidworks to create individual 3-D component models and three final prototype
-assemblies. -High-priority tasks were highlighted in a Gantt chart, and work was distributed evenly. -The final design was built from low-cost materials and presented in the final competition top
-peers and faculty 
+launcher using Arduino.
+-Utilized Solidworks to create individual 3-D component models and three final prototype
+assemblies.
+-High-priority tasks were highlighted in a Gantt chart, and work was distributed evenly.
+-The final design was built from low-cost materials and presented in the final competition top peers and faculty 
 - 🛠️ **Skills Used**: SolidWorks and Arduino.
  
 
