@@ -58,8 +58,8 @@ Here are some of the engineering projects I've worked on:
 -Utilized Solidworks to create individual 3-D component models and three final prototype
  assemblies.
 -High-priority tasks were highlighted in a Gantt chart, and work was distributed evenly.
-The final design was built from low-cost materials and presented in the final competition to
- peers and faculty 
+-The final design was built from low-cost materials and presented in the final competition top
+peers and faculty 
 - 🛠️ **Skills Used**: SolidWorks and Arduino.
  
 
