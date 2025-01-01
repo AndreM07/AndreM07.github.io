@@ -43,7 +43,11 @@ Here are some of the engineering projects I've worked on:
 
 ### **1. SAE Wheel Hub Modeling** (2024–)  
 - 🌱 **Description**:  
-  - Modeling and optimizing an SAE wheel hub using ANSYS to ensure structural integrity and performance.  
+ - Currently working with a group of 5 Senior Design students to design & create a SAE wheel hub.
+ - Conducted patent search to research and brainstorm possible designs
+ - Utilized SolidWorks to create an original wheel hub design that meets SAE standards 
+ - Uploaded design into ANSYS to apply FEA (Finite element analysis)
+
 - 🛠️ **Skills Used**:  
   - ANSYS, Finite Element Analysis, SolidWorks.  
 
