@@ -34,7 +34,7 @@ Welcome to my personal website! I'm Andre Mojica, an aspiring mechanical enginee
   - Preparing and serving customer drinks.  
 - Notable contribution: During the Covid pandemic, I handed out free coffee to frontline hospital workers.  
 
-### **2. Manufacturing at WaterSaver Faucet Co. (May–August 2023)**  
+### **2. Manufacturing at WaterSaver Faucet Co. (May-August 2023)**  
 - Worked in manufacturing/assembly for 3 months.  
 - Key responsibilities:  
   - Manufacturing and assembling professional laboratory equipment.  
@@ -45,13 +45,23 @@ Welcome to my personal website! I'm Andre Mojica, an aspiring mechanical enginee
 
 Here are some of the engineering projects I've worked on:  
 
-### **1. SAE Wheel Hub Modeling**  
-- 🌱 **Description**: Modeling and optimizing an SAE wheel hub using ANSYS to ensure structural integrity and performance.  
-- 🛠️ **Skills Used**: ANSYS, Finite Element Analysis, SolidWorks.  
+### **1. SAE Wheel Hub Modeling** (2024-) 
+- 🌱 **Description**:
+- Modeling and optimizing an SAE wheel hub using ANSYS to ensure structural integrity and performance.  
+- 🛠️ **Skills Used**:
+- ANSYS, Finite Element Analysis, SolidWorks.  
 
-### **2. [Your Project Name Here]**  
-- 🌱 **Description**: Add details about another project, such as its goals, challenges, and achievements.  
-- 🛠️ **Skills Used**: Add the tools or technologies used.  
+### **2. Ping Pong ball launcher**  (2022)
+- 🌱 **Description**:  
+-Collaborated with a team of four students to design and build an autonomous ping-pong ball
+ launcher using Arduino.
+-Utilized Solidworks to create individual 3-D component models and three final prototype
+ assemblies.
+-High-priority tasks were highlighted in a Gantt chart, and work was distributed evenly.
+The final design was built from low-cost materials and presented in the final competition to
+ peers and faculty 
+- 🛠️ **Skills Used**: SolidWorks and Arduino.
+ 
 
 ---
 
